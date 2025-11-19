@@ -52,7 +52,11 @@ S.No	Input (X0)	Time Delay (sec)	Output (Y0)
 
 
 ###  HARDWARE SETUP 
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/f6edbf66-49da-43f8-a22c-b750fd202914" />
 
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/14ae5713-1c8c-4106-9725-e86bc3506b7c" />
+
+![WhatsApp Image 2025-10-31 at 00 15 51_00fa98d1](https://github.com/user-attachments/assets/a55466a4-805a-4eca-a5fa-1d82a988382a)
 
 
 
